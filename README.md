@@ -8,6 +8,11 @@
 
 2025 年 9 月，npm 生态系统遭受了大规模的供应链攻击，多个流行包被注入了恶意代码。本工具专门用于检测和修复这些受影响的包版本。
 
+相关链接：
+- https://semgrep.dev/blog/2025/chalk-debug-and-color-on-npm-compromised-in-new-supply-chain-attack/
+- https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the
+
+
 ## ✨ 功能特性
 
 - 🔍 **自动检测包管理器**：支持 yarn、npm、pnpm
@@ -217,9 +222,8 @@ MIT License
 
 ## 🔗 相关链接
 
-- [npm 安全公告](https://blog.npmjs.org/post/security-advisory)
-- [Semgrep 官方文档](https://semgrep.dev/docs/)
-- [供应链攻击防护最佳实践](https://owasp.org/www-project-supply-chain-security/)
+- https://semgrep.dev/blog/2025/chalk-debug-and-color-on-npm-compromised-in-new-supply-chain-attack/
+- https://jdstaerk.substack.com/p/we-just-found-malicious-code-in-the
 
 ---
 
